@@ -6,8 +6,7 @@ basis of their projects. Features:
 ### 2)Search developers on basis of skills.
 ### 3)Search projects on the basis of tech stack used. 
 ### 4)Detailes page for individual project and developer.
-### 5)User can edit their info ,project details any time in account
-page.
+### 5)User can edit their info ,project details any time in account page.
 ### 6)You can message user.
 
 
